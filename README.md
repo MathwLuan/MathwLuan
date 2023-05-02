@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-matheus-868461230/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.mathw)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathwLuan&size_weight=0.5&count_weight=0.5)](https://github.com/MathwLuan/github-readme-stats)
-
 ## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"></br>
